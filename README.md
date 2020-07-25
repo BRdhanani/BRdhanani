@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**BRdhanani/BRdhanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+    
+   ##             Welcome to my world
 
-Here are some ideas to get you started:
+Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## P R O F E S S I O N A L  S K I L L S
+- ReactJS
+- PHP
+- WordPress
+- JQuery
+- HTML
+- Javascript
+- CSS
+- Bootstrap
+- JSON
+- REST API
+- MYSQL
